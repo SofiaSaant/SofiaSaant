@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="../Tecnolochicas-PRO-b7-g1/PORTADA GITHUB.png"  />
+  <img height="300" src="PORTADA GITHUB.png"  />
 </div>
 
 ###
