@@ -48,12 +48,11 @@ const sofia = {
 ### `03` &nbsp; github stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SofiaSaant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E5E7EB&text_color=8B949E&icon_color=8B949E" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=SofiaSaant&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=E5E7EB&fire=E5E7EB&currStreakLabel=E5E7EB" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaSaant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E5E7EB&text_color=8B949E" width="48%" />
+![Profile Views](https://komarev.com/ghpvc/?username=SofiaSaant&label=Profile%20Views&color=1F2937&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/SofiaSaant?label=Followers&style=for-the-badge&color=1F2937&labelColor=161B22)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SofiaSaant&label=Repos&query=public_repos&style=for-the-badge&color=1F2937&labelColor=161B22)
+
 </div>
 
 <br/>
